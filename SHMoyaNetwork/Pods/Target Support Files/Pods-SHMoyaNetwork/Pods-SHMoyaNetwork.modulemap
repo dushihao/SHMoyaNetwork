@@ -1,0 +1,6 @@
+module Pods_SHMoyaNetwork {
+  umbrella header "Pods-SHMoyaNetwork-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,11 @@
+# Uncomment this line to define a global platform for your project
+
+platform :ios, '10.0'
+
+target 'SHMoyaNetwork' do
+
+  pod 'Moya', '~> 15.0'
+  pod 'Kingfisher', '~> 6.3.1'
+  pod 'SwiftyJSON', '~> 4.0'
+
+end
